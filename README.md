@@ -28,11 +28,11 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## 👍 Credits
+<!-- ## 👍 Credits
 
 GUI & Graphic Design: Nelson Sakwa
 
-- Behance: [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
+- Behance: [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) -->
 
 ## 📝 License
 
